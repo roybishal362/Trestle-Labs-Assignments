@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain_community
+langchain-groq
+pydantic
+numpy
+PyPDF2
+PyMuPDF
+Pillow
+pytesseract
+python-dotenv
