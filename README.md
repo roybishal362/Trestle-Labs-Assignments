@@ -32,6 +32,8 @@ An AI-powered document extraction application that automatically extracts struct
 │   Download      │    │   Display        │    │   JSON Output   │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
 ```
+## 🌟 Want to Try:
+Link: https://trestle-labs-assignments-ckftajl9rxq9sgw87q4wsn.streamlit.app/
 
 ## 📋 Table of Contents
 
@@ -525,8 +527,8 @@ def detect_document_type(text: str) -> str:
 - **Documentation**: Check this README first
 - **Issues**: Open GitHub issues for bugs
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: contact@yourproject.com
-
+- **Email**: roybishal9989@gmail.com
+  
 ### Reporting Bugs
 Include:
 - Python version
@@ -561,7 +563,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Azure Form Recognizer](https://azure.microsoft.com/en-us/services/form-recognizer/)
 
 ---
-
-**Made with ❤️ for the AI community**
-
-*Star ⭐ this repo if you found it helpful!*
